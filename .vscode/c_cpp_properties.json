@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "name": "PROS Project",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:\\Users\\zoya\\Documents\\robotics\\highStakes\\GTEAM1\\include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:\\Users\\zoya\\Downloads\\pros-toolchain-windows-formatted\\usr\\bin\\arm-none-eabi-g++",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++20",
+      "intelliSenseMode": "gcc-arm",
+      "compileCommands": "c:\\Users\\zoya\\Documents\\robotics\\overUnder\\states\\onlyLemlib\\compile_commands.json",
+      "browse": {
+        "path": [
+          "c:\\Users\\zoya\\Documents\\robotics\\highStakes\\GTEAM1"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
